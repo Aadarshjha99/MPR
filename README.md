@@ -26,17 +26,13 @@ The **Stock Trend Prediction Web App** is an interactive tool that leverages mac
 - **Plotly**: For creating interactive and dynamic charts.
 - **Matplotlib/Seaborn**: For static data visualizations.
 
-### **Database**
-- **MongoDB Atlas** or **Firebase**: For storing historical stock data and user information.
-
 ### **APIs**
 - **Yahoo Finance API**: For retrieving historical stock data.
-- **Alpha Vantage API**: As an alternative for financial data.
-
+  
 ---
 
 ## **Setup Instructions**
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stock-trend-prediction-web-app.git
+   git clone https://github.com/Aadarshjha99/MPR.git
