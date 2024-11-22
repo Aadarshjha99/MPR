@@ -40,9 +40,6 @@ The **Stock Trend Prediction Web App** is an interactive tool that leverages mac
 2. Navigate to the project directory:
     ```bash
     cd stock-trend-prediction-web-app
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-4. Run the application:
+3. Run the application:
     ```bash
     streamlit run app.py   
