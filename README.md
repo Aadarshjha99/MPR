@@ -36,3 +36,13 @@ The **Stock Trend Prediction Web App** is an interactive tool that leverages mac
 1. Clone this repository:
    ```bash
    git clone https://github.com/Aadarshjha99/MPR.git
+
+2. Navigate to the project directory:
+    ```bash
+    cd stock-trend-prediction-web-app
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+4. Run the application:
+    ```bash
+    streamlit run app.py   
